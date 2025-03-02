@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.tetteis.com/sitemap-index.xml
+Sitemap: https://www.mshardey.com/sitemap-index.xml
