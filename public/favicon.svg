@@ -1,9 +1,0 @@
-<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-	<title>profile</title>
-	<defs>
-		<image  width="16" height="16" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAAXNSR0IB2cksfwAAAJNQTFRFI1WUXIGwtsbdKlqYla3MztnnKlqXJVaVvszgu8vfMWCb3OTuq77XJleWM2CcKFmXNWOdhJ/Fvcvg+/z9+vv9/P3+////o7jTYoWz5uvz4ujxydXlj6jJeJa+PWmhJFaVMF6baYu2fJrAfJnAcJC6iKPGZ4m1kanKXoKxWH2ulq3MU3qsjqjJa4y3/f7+T3eqZIe1B4ZxAwAAAGJJREFUeJxjYMABGJmYUQVYWNlQ+OwcnKgKuLh5ePn44VwBQSFhEVExcbiAhKSUmLSMrBxcQF5BUUwJ1QxlMRVUAVUxNVQBdTENNHeJaaIKaIlpowrooAvo6umjCvAb8EJZAHc4BZQ2BfiJAAAAAElFTkSuQmCC"/>
-	</defs>
-	<style>
-	</style>
-	<use id="Background" href="#img1" x="0" y="0"/>
-</svg>
